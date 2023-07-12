@@ -7,12 +7,10 @@
 #### `HTML` `CSS` `JavaScript` `Node JS`
 
 #### Screenshot-1
-
-![Screenshot_3](https://user-images.githubusercontent.com/90920811/216261385-4123d890-eabf-4f11-a5cc-040a5a975a65.png)
+![ss1](https://github.com/kumar-rahul2001/node-farm/assets/90920811/ba26b9e3-7731-4d20-b158-af81e2f66a09)
 
 #### Screenshot-2
-
-![Screenshot_4](https://user-images.githubusercontent.com/90920811/216261425-3041ed37-4998-4d5f-8ef7-0587b8fd7933.png)
+![ss2](https://github.com/kumar-rahul2001/node-farm/assets/90920811/22ceef01-56c9-4e84-bbdd-4ffa0ff6520a)
 
 ### Available Scripts
 
